@@ -1,4 +1,4 @@
 # domo-project
 this is my new project 
 <br>
-Author- Muqtada Hassan
+Author- Muqtada Hassan(colloge)
